@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "111029573791",
+    "project_id": "practice-app-tj8i0w",
+    "storage_bucket": "practice-app-tj8i0w.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111029573791:android:e860f49c31bf3cbb4deaaa",
+        "android_client_info": {
+          "package_name": "com.app.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111029573791-e4hoe130o2ri4ts57fber4br0869sm8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZapEuOV9KpumJ2CbfZpismA9F5TNXF2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111029573791-e4hoe130o2ri4ts57fber4br0869sm8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111029573791-r852htp1folc66ree6or8t85enmt6ume.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.practiceapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111029573791:android:8d52f12d24029f634deaaa",
+        "android_client_info": {
+          "package_name": "com.mycompany.practiceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111029573791-e4hoe130o2ri4ts57fber4br0869sm8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZapEuOV9KpumJ2CbfZpismA9F5TNXF2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111029573791-e4hoe130o2ri4ts57fber4br0869sm8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111029573791-r852htp1folc66ree6or8t85enmt6ume.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.practiceapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
